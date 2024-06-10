@@ -137,8 +137,13 @@ h6,
   color: #cccccc !important;
 }
 
-.contianer {
+.container {
   align-items: center !important;
   text-align: center !important
     ;
+}
+.component-margin {
+  margin-top: 100px; /* Ajusta este valor según tus necesidades */
+  border-top: 20px solid #cccccc; /* Añade un borde superior */
+  padding-top: 20px;
 }
